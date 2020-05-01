@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    printf("hello, world");
+    printf("hello, workld");
 }
 
 // void cough(int n);
